@@ -15,10 +15,12 @@
   display: flex;
   flex-wrap: wrap;
   flex: 1;
+  justify-content: space-between;
 }
 
 .about__item{
   padding-right: 0.5rem;
+  text-align: center;
   &:last-child{
     padding-right: 0;
   }

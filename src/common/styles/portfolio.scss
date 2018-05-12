@@ -1,0 +1,47 @@
+.portfolio-block{
+  background-image: url('./assets/picture/portfolio-section-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.portfolio{
+  position: relative;
+  display: block;
+  width: 100%;
+
+}
+.portfolio-content{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.portfolio-content label{
+  display: inline-block;
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+.portfolio-item{
+  background-image: url(assets/picture/icons/item-1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 25%;
+  height: 323px;
+}
+
+#design:checked ~ .design,
+#logo:checked ~ .logo,
+#photography:checked ~ .photography,
+#poster:checked ~ .poster,
+#resources:checked ~ .resources,
+#retro:checked ~ .retro,
+#t-shirts:checked ~ .t-shirts,
+#videos:checked ~ .videos{
+  display: none;
+}

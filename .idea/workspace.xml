@@ -2,95 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="540f53d3-f4c1-4e5e-a0cf-f0c1a9fa4542" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/about.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/blog.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/portfolio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Layer 16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Layer 30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Layer 33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Layer 5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Layer 59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Layer 60.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/chat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/Rectangle 2 copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/accessories_large_2x (1).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/accessories_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/accessories_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/accessories_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/airpods_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/airpods_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/airpods_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/airpods_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple_image.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple_pay_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple_pay_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple_pay_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple_pay_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/business_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/business_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/business_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/business_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/cart_image.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/compare_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/compare_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/compare_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/howtoshoot_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/howtoshoot_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/howtoshoot_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/howtoshoot_textoverlay_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/howtoshoot_textoverlay_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/howtoshoot_textoverlay_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icloud_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icloud_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icloud_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icloud_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icon_ios_large.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ios_large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ios_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ios_medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ios_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ios_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ios_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone-x.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone8_large.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_8_large.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_8_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_8_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_8_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_acc_large.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_comp_large.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_ios_large.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_iup_tile_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_iup_tile_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_iup_tile_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_tradeup_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_x_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_x_medium.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_x_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphone_x_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/iphonese_large.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/why_switch_large_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/why_switch_medium_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/why_switch_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/why_switch_small_2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/like.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/blog.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/portfolio.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -103,17 +28,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5918197">
+    <splitter split-orientation="horizontal" split-proportion="0.8196995">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="115" column="71" selection-start-line="115" selection-start-column="71" selection-end-line="115" selection-end-column="71" />
+                <state relative-caret-position="371">
+                  <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
                   <folding>
-                    <marker date="1525865374617" expanded="true" signature="2709:2738" ph="..." />
-                    <marker date="1525865374617" expanded="true" signature="3567:3646" ph="..." />
+                    <marker date="1526144573844" expanded="true" signature="753:2188" ph="..." />
+                    <marker date="1526144573844" expanded="true" signature="5477:5506" ph="..." />
+                    <marker date="1526144573844" expanded="true" signature="6335:6414" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -135,26 +61,38 @@
           <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/index.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+                <state relative-caret-position="45">
+                  <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="about.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/common/styles/about.scss">
+          <file leaf-file-name="contact.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/contact.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="125">
-                  <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="16" selection-end-column="10" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="30" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="blog.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/common/styles/blog.scss">
+          <file leaf-file-name="footer.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/footer.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="276">
-                  <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+                <state relative-caret-position="409">
+                  <caret line="35" column="33" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="35" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="portfolio.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/portfolio.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="186">
+                  <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+                  <folding>
+                    <marker date="1526143757809" expanded="true" signature="484:539" ph="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -162,8 +100,8 @@
           <file leaf-file-name="base.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/common/styles/base.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="401">
-                  <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+                <state relative-caret-position="206">
+                  <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -179,6 +117,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>auto</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -189,12 +132,15 @@
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/common/styles/mixins.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/header.scss" />
-        <option value="$PROJECT_DIR$/src/index.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/fonts.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/about.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/base.scss" />
-        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/index.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/contact.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/footer.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/blog.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/portfolio.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
@@ -266,14 +212,15 @@
               <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
               <item name="diplom-wa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="picture" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
               <item name="diplom-wa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
@@ -339,22 +286,22 @@
       <option name="presentableId" value="Default" />
       <updated>1525377537645</updated>
       <workItem from="1525377539523" duration="18437000" />
-      <workItem from="1525813129772" duration="6208000" />
+      <workItem from="1525813129772" duration="23702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24645000" />
+    <option name="totallyTimeSpent" value="42139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49628252" visible="true" weight="0.15574348" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49628252" visible="true" weight="0.15574348" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917705" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32917705" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" sideWeight="0.5037175" side_tool="true" weight="0.15574348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -405,8 +352,9 @@
           <caret line="81" column="28" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="54" />
           <caret line="92" column="28" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="54" />
           <folding>
-            <marker date="1525865374617" expanded="true" signature="2709:2738" ph="..." />
-            <marker date="1525865374617" expanded="true" signature="3567:3646" ph="..." />
+            <marker date="1526144573844" expanded="true" signature="753:2188" ph="..." />
+            <marker date="1526144573844" expanded="true" signature="5477:5506" ph="..." />
+            <marker date="1526144573844" expanded="true" signature="6335:6414" ph="..." />
           </folding>
         </state>
       </provider>
@@ -504,40 +452,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/styles/base.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        <state relative-caret-position="206">
+          <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/assets/picture/icons/twitter.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/styles/about.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="115" column="71" selection-start-line="115" selection-start-column="71" selection-end-line="115" selection-end-column="71" />
-          <folding>
-            <marker date="1525865374617" expanded="true" signature="2709:2738" ph="..." />
-            <marker date="1525865374617" expanded="true" signature="3567:3646" ph="..." />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/common/styles/blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="254">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/picture/icons/item-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/picture/icons/item-a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <marker date="1526143757809" expanded="true" signature="484:539" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <marker date="1526144573844" expanded="true" signature="753:2188" ph="..." />
+            <marker date="1526144573844" expanded="true" signature="5477:5506" ph="..." />
+            <marker date="1526144573844" expanded="true" signature="6335:6414" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

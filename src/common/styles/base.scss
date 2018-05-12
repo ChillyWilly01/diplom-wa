@@ -35,6 +35,16 @@ ul, ol{
   text-shadow: #fcfaf7 1px 1px 0, #393a3a 4px 3px 0px;
 }
 
+.titleWhite{
+  font-family: 'Bazar';
+  font-size: 10rem;
+  font-weight: 400;
+  line-height: 22px;
+  text-transform: uppercase;
+  text-shadow: #484a4d 3px 3px 0, #d4cebf 5px 5px 0px;
+  color: $title_color;
+}
+
 .title-img{
   width: 15%;
   display: block;
@@ -49,6 +59,14 @@ ul, ol{
   font-weight: 400;
   line-height: 22px;
   color: $black_color;
+}
+
+.subtitleWhite{
+  font-family: 'Oswald';
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 22px;
+  color: $title_color;
 }
 
 .block-header{
