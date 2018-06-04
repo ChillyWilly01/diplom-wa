@@ -1,19 +1,9 @@
 .blog-block{
-  //background-image: url('./assets/picture/blog-section-bg.png');
-  background-color: deepskyblue;
+  background-image: url('./assets/picture/blog-section-bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   position: relative;
-}
-
-.blog{
-
-
-}
-
-.blog-content{
-
 }
 
 .left_column{
@@ -26,7 +16,7 @@
 
 .blog-content__item{
   display: flex;
-  padding-bottom: 4rem;
+  padding: 0 1rem 4rem 1rem;
   width: 100%;
   & img{
     display: block;

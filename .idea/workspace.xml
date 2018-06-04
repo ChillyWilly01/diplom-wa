@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="540f53d3-f4c1-4e5e-a0cf-f0c1a9fa4542" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/image/menu.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/item-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/picture/icons/tv.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/picture/icons/tv.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/styles/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/about.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/styles/base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/styles/blog.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/blog.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/styles/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/contact.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/styles/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/styles/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/styles/portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/styles/portfolio.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,17 +28,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.57429045">
+    <splitter split-orientation="horizontal" split-proportion="0.5192308">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-642">
-                  <caret line="132" column="96" lean-forward="true" selection-start-line="132" selection-start-column="96" selection-end-line="132" selection-end-column="96" />
+                <state relative-caret-position="31">
+                  <caret line="241" column="51" selection-start-line="241" selection-start-column="51" selection-end-line="241" selection-end-column="51" />
                   <folding>
-                    <marker date="1526144667528" expanded="true" signature="2709:2738" ph="..." />
-                    <marker date="1526144667528" expanded="true" signature="3567:3646" ph="..." />
+                    <element signature="e#737#744#1" expanded="true" />
+                    <marker date="1528136729004" expanded="true" signature="2924:2953" ph="..." />
+                    <marker date="1528136729004" expanded="true" signature="3782:3861" ph="..." />
+                    <marker date="1528136729004" expanded="true" signature="6406:10661" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -47,8 +49,11 @@
           <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret column="22" selection-start-column="22" selection-end-column="22" />
+                <state relative-caret-position="375">
+                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+                  <folding>
+                    <element signature="e#0#22#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -60,17 +65,17 @@
           <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/index.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+                <state relative-caret-position="255">
+                  <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="contact.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/common/styles/contact.scss">
+          <file leaf-file-name="about.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/about.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="30" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="30" />
+                <state relative-caret-position="360">
+                  <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
@@ -78,20 +83,59 @@
           <file leaf-file-name="footer.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/common/styles/footer.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="409">
-                  <caret line="35" column="33" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="35" selection-end-column="33" />
+                <state relative-caret-position="371">
+                  <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="portfolio.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="portfolio.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/common/styles/portfolio.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="275">
-                  <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+                <state relative-caret-position="371">
+                  <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
                   <folding>
-                    <marker date="1526143757809" expanded="true" signature="484:539" ph="..." />
+                    <marker date="1526203211951" expanded="true" signature="692:747" ph="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="blog.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/blog.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-190">
+                  <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+                  <folding>
+                    <marker date="1526204414502" expanded="true" signature="15:77" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mixins.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/mixins.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="contact.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/contact.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/common/styles/header.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="500">
+                  <caret line="155" column="24" lean-forward="true" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
                 </state>
               </provider>
             </entry>
@@ -99,8 +143,8 @@
           <file leaf-file-name="base.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/common/styles/base.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="206">
-                  <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+                <state relative-caret-position="949">
+                  <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
                 </state>
               </provider>
             </entry>
@@ -119,6 +163,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>auto</find>
+      <find>clo</find>
+      <find>slide__menu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,18 +174,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/components/header.html" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/common/styles/mixins.scss" />
-        <option value="$PROJECT_DIR$/src/common/styles/header.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/fonts.scss" />
-        <option value="$PROJECT_DIR$/src/common/styles/about.scss" />
-        <option value="$PROJECT_DIR$/src/common/styles/base.scss" />
         <option value="$PROJECT_DIR$/src/index.scss" />
-        <option value="$PROJECT_DIR$/src/common/styles/contact.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/footer.scss" />
-        <option value="$PROJECT_DIR$/src/common/styles/blog.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/mixins.scss" />
         <option value="$PROJECT_DIR$/src/common/styles/portfolio.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/blog.scss" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/common/styles/header.scss" />
         <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/common/styles/base.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/about.scss" />
+        <option value="$PROJECT_DIR$/src/common/styles/contact.scss" />
       </list>
     </option>
   </component>
@@ -154,7 +200,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -163,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,29 +238,7 @@
               <item name="diplom-wa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diplom-wa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diplom-wa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="picture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diplom-wa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="picture" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
@@ -225,13 +250,13 @@
               <item name="diplom-wa" type="b2602c69:ProjectViewProjectNode" />
               <item name="diplom-wa" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,6 +270,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/image" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,25 +315,27 @@
       <option name="presentableId" value="Default" />
       <updated>1525377537645</updated>
       <workItem from="1525377539523" duration="18437000" />
-      <workItem from="1525813129772" duration="24010000" />
+      <workItem from="1525813129772" duration="24107000" />
+      <workItem from="1526145147146" duration="21134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42447000" />
+    <option name="totallyTimeSpent" value="63678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49628252" visible="true" weight="0.15574348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4944238" visible="true" weight="0.1205074" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32917705" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="npm" order="2" sideWeight="0.5037175" side_tool="true" weight="0.15574348" />
+      <window_info id="npm" order="2" sideWeight="0.5055762" side_tool="true" weight="0.15574348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32917705" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32917705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -320,19 +352,19 @@
       <window_info id="npm" order="2" sideWeight="0.5037175" side_tool="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49628252" visible="true" weight="0.15574348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917705" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32917705" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49628252" visible="true" weight="0.15574348" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,14 +376,77 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="92" lean-forward="true" selection-start-line="132" selection-start-column="92" selection-end-line="132" selection-end-column="92" />
+          <folding>
+            <element signature="e#737#744#1" expanded="true" />
+            <marker date="1528136729004" expanded="true" signature="2924:2953" ph="..." />
+            <marker date="1528136729004" expanded="true" signature="3782:3861" ph="..." />
+            <marker date="1528136729004" expanded="true" signature="6406:10661" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="33" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <marker date="1526203211951" expanded="true" signature="692:747" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1380">
           <caret line="59" column="28" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="54" />
           <caret line="70" column="28" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="54" />
           <caret line="81" column="28" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="54" />
           <caret line="92" column="28" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="54" />
           <folding>
-            <marker date="1526144667528" expanded="true" signature="2709:2738" ph="..." />
-            <marker date="1526144667528" expanded="true" signature="3567:3646" ph="..." />
+            <element signature="e#737#744#1" expanded="true" />
+            <marker date="1528136729004" expanded="true" signature="2924:2953" ph="..." />
+            <marker date="1528136729004" expanded="true" signature="3782:3861" ph="..." />
+            <marker date="1528136729004" expanded="true" signature="6406:10661" ph="..." />
           </folding>
         </state>
       </provider>
@@ -412,31 +507,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/sectional.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -447,75 +521,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/base.scss">
+    <entry file="file://$PROJECT_DIR$/src/common/styles/footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="61" column="1" lean-forward="true" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        <state relative-caret-position="371">
+          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/picture/icons/twitter.png">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/picture/slider-section-bg.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/about.scss">
+    <entry file="file://$PROJECT_DIR$/src/common/styles/portfolio.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        <state relative-caret-position="371">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+          <folding>
+            <marker date="1526203211951" expanded="true" signature="692:747" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/contact.scss">
+    <entry file="file://$PROJECT_DIR$/src/common/styles/mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/picture/icons/item-1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/footer.scss">
+    <entry file="file://$PROJECT_DIR$/src/common/styles/header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="35" column="33" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="35" selection-end-column="33" />
+        <state relative-caret-position="500">
+          <caret line="155" column="24" lean-forward="true" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/picture/icons/item-a.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/styles/portfolio.scss">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <marker date="1526143757809" expanded="true" signature="484:539" ph="..." />
+            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-642">
-          <caret line="132" column="96" lean-forward="true" selection-start-line="132" selection-start-column="96" selection-end-line="132" selection-end-column="96" />
+        <state relative-caret-position="31">
+          <caret line="241" column="51" selection-start-line="241" selection-start-column="51" selection-end-line="241" selection-end-column="51" />
           <folding>
-            <marker date="1526144667528" expanded="true" signature="2709:2738" ph="..." />
-            <marker date="1526144667528" expanded="true" signature="3567:3646" ph="..." />
+            <element signature="e#737#744#1" expanded="true" />
+            <marker date="1528136729004" expanded="true" signature="2924:2953" ph="..." />
+            <marker date="1528136729004" expanded="true" signature="3782:3861" ph="..." />
+            <marker date="1528136729004" expanded="true" signature="6406:10661" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="949">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+          <folding>
+            <marker date="1526204414502" expanded="true" signature="15:77" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/styles/contact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>

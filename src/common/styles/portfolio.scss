@@ -15,11 +15,24 @@
   display: flex;
   flex-wrap: wrap;
   flex: 1;
-  justify-content: space-between;
+  justify-content: center;
+  > p{
+    margin-right: 20px;
+  }
 }
 
 .portfolio-content label{
   display: inline-block;
+  background-color: white;
+  margin-right: 5px;
+  margin-bottom: 15px;
+  cursor: pointer;
+  width: 9%;
+  text-align: center;
+  &:hover,
+  &:active{
+    border: 1px solid blue;
+  }
 }
 
 input[type=checkbox] {
@@ -28,20 +41,48 @@ input[type=checkbox] {
 
 .portfolio-item{
   background-image: url(assets/picture/icons/item-1.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  width: 25%;
-  height: 323px;
+  width: 250px;
+  height: 250px;
+  margin: 0 25px 25px 0;
+  position: relative;
+
+  & img{
+    position: absolute;
+    top: 72%;
+    left: 44.5%;
+    width: 10%;
+  }
+
+  .item__text{
+    font-family: 'Roboto';
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 22px;
+    position: relative;
+    top: 85%;
+    text-align: center;
+  }
 }
 
-#design:checked ~ .design,
-#logo:checked ~ .logo,
-#photography:checked ~ .photography,
-#poster:checked ~ .poster,
-#resources:checked ~ .resources,
-#retro:checked ~ .retro,
-#t-shirts:checked ~ .t-shirts,
-#videos:checked ~ .videos{
+.portfolio-content__block{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+
+
+#design:checked ~ .portfolio-content__block .design,
+#logo:checked ~ .portfolio-content__block .logo,
+#photography:checked ~ .portfolio-content__block .photography,
+#poster:checked ~ .portfolio-content__block .poster,
+#resources:checked ~ .portfolio-content__block .resources,
+#retro:checked ~ .portfolio-content__block .retro,
+#t-shirts:checked ~ .portfolio-content__block .t-shirts,
+#videos:checked ~ .portfolio-content__block .videos{
   display: none;
 }

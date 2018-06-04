@@ -1,26 +1,112 @@
+$contentMaxWidth: 880px;
+
 .header-block{
   background-image: url('./assets/picture/header-bg.png');
-  background-size: cover;
+  background-size: 100% 110%;
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 0;
+
+  @include mobile{
+    background-color: black;
+  }
+}
+
+
+.close_menu{
+  position: fixed;
+  right: 4%;
+  top: 1%;
+  font-weight: 900;
+  display: none;
+  color: white;
+}
+
+.slide__menu {
+  display: none;
+  @include mobile() {
+    display: block;
+  }
+}
+
+.header-nav__item{
+  color: #6b848c;
+  font-size: 0.75rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 0 10px 10px;
+  display: block;
+  cursor: pointer;
+  text-align: center;
 }
 
 .header-nav{
   padding: 0 65px;
+
+  @include mobile{
+    height: 2.823rem;
+    display: none;
+  }
+
+  &.active{
+    display: block;
+    .header-nav__menu {
+      left: 0px;
+    }
+    .close_menu{
+      display: block;
+    }
+  }
 }
 
 .header-nav__menu{
   display: flex;
   justify-content: center;
-  padding: 0 10rem 0 10rem;
-  justify-content: space-between;
   align-items: center;
+
+  @include mobile{
+    z-index: 1;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    background-color: rgba(0,0,0, 0.9);
+    width: 100vw;
+    height: calc(100vh - 2.823rem);
+    flex-direction: column;
+    justify-content: center;
+    transition: transform 0.5s;
+  }
 }
 
 .header-nav__item{
+  color: #6b848c;
+  font-size: 0.75rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  padding: 0 10px 0 10px;
+  display: inline-block;
+  cursor: pointer;
+
+  &:active{
+  color: #fff;
+  }
+  &:hover {
+    -webkit-transition: .4s ease-out;
+    -moz-transition: .4s ease-out;
+    -o-transition: .4s ease-out;
+    transition: .4s ease-out;
+  }
+  @include mobile{
+    flex-grow: 0;
+    width: 60%;
+    margin: 1rem auto;
+  }
   & a{
     text-transform: uppercase;
+    @include mobile{
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+    }
     & span{
       font-family: 'Bazar';
       color: $white_color;
@@ -33,6 +119,10 @@
 
 .header-img{
   width: 120px;
+
+  @include mobile{
+    display: none;
+  }
 }
 
 .header-content{

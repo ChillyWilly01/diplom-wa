@@ -7,7 +7,6 @@
 }
 
 .about{
-  padding: 5rem 0 7rem 0;
   width: 100%;
 }
 
@@ -15,7 +14,7 @@
   display: flex;
   flex-wrap: wrap;
   flex: 1;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .about__item{
@@ -64,4 +63,5 @@
   color: $black_color;
   text-align: left;
   padding-left: 1rem;
+  padding-bottom: 2rem;
 }
